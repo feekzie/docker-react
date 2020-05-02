@@ -8,8 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            Heello there!
-          Edit <code>src/App.js</code> and save to reboot.
+            We live on BeanStalk
         </p>
         <a
           className="App-link"
